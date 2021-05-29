@@ -1,0 +1,31 @@
+D:\Documents\Usuario\Mis documentos\Visual Studio 2010\Projects\wsTablasdeMultiplicar\wsTablasdeMultiplicar\bin\wsTablasdeMultiplicar.dll
+D:\Documents\Usuario\Mis documentos\Visual Studio 2010\Projects\wsTablasdeMultiplicar\wsTablasdeMultiplicar\bin\wsTablasdeMultiplicar.pdb
+D:\Documents\Usuario\Mis documentos\Visual Studio 2010\Projects\wsTablasdeMultiplicar\wsTablasdeMultiplicar\bin\wsTablasdeMultiplicar.xml
+D:\Documents\Usuario\Mis documentos\Visual Studio 2010\Projects\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Usuario\Mis documentos\Visual Studio 2010\Projects\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.Resources.resources
+D:\Documents\Usuario\Mis documentos\Visual Studio 2010\Projects\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents\Usuario\Mis documentos\Visual Studio 2010\Projects\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents\Usuario\Mis documentos\Visual Studio 2010\Projects\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.dll
+D:\Documents\Usuario\Mis documentos\Visual Studio 2010\Projects\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.xml
+D:\Documents\Usuario\Mis documentos\Visual Studio 2010\Projects\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.pdb
+K:\Documentos\Proyectos VS.NET\wsTablasdeMultiplicar\wsTablasdeMultiplicar\bin\wsTablasdeMultiplicar.dll
+K:\Documentos\Proyectos VS.NET\wsTablasdeMultiplicar\wsTablasdeMultiplicar\bin\wsTablasdeMultiplicar.pdb
+K:\Documentos\Proyectos VS.NET\wsTablasdeMultiplicar\wsTablasdeMultiplicar\bin\wsTablasdeMultiplicar.xml
+K:\Documentos\Proyectos VS.NET\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\ResolveAssemblyReference.cache
+K:\Documentos\Proyectos VS.NET\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.Resources.resources
+K:\Documentos\Proyectos VS.NET\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\GenerateResource.read.1.tlog
+K:\Documentos\Proyectos VS.NET\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\GenerateResource.write.1.tlog
+K:\Documentos\Proyectos VS.NET\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.dll
+K:\Documentos\Proyectos VS.NET\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.xml
+K:\Documentos\Proyectos VS.NET\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.pdb
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\bin\wsTablasdeMultiplicar.dll.config
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\bin\wsTablasdeMultiplicar.dll
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\bin\wsTablasdeMultiplicar.pdb
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\bin\wsTablasdeMultiplicar.xml
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.vbprojAssemblyReference.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.Resources.resources
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.vbproj.GenerateResource.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.dll
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.xml
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wsTablasdeMultiplicar\wsTablasdeMultiplicar\obj\Debug\wsTablasdeMultiplicar.pdb
